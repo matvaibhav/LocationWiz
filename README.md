@@ -1,5 +1,6 @@
 # LocationWiz
 An Android App to learn your daily schedule and suggest friends based on your schedule. Developed as part of the course CSE 570: Wireless and Mobile Networking.
+
 In today’s fast paced world, everybody is in a rush and we frequently forget to be at certain places at
 designated times. It would be fantastic if someone provides us a reminder when we need to start travelling
 to reach the location of our next appointment without explicitly writing down our schedule! The Location
