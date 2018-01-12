@@ -10,6 +10,7 @@ showing the locations you tend to be at every half an hour during a day of the w
 schedule, the sends you push notifications whenever an anomaly is detected between your current
 location and what your schedule says. It also notifies you when it is time to travel to a certain location but
 you are stationary.
+
 Another exciting feature of Location Wiz App is Friend Suggestions. Generally, individuals who are
 present at same locations at the same times have similar lifestyles and interests. Would it not be an
 absolute pleasure to make acquaintance with people who have congruent schedules as yours? The
